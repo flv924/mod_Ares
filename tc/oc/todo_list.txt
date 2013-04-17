@@ -1,0 +1,16 @@
+todo list:
+
+=main game hooks
+=package organisation
+  -modules
+     -guis
+     -controls
+     -stats
+  -data
+  -config
+=config reader (xml)
+=data management
+  -website interaction
+  -player stat interaction
+=add in modules (multithread everything)
+=use proper coding conventions
